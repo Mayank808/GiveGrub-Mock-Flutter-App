@@ -1,2 +1,2 @@
 # Flutter-App-Dev
-These are my starter projects on flutter that i used to practices creating and designing UI. 
+These are my starter projects on flutter that I used to practices creating and designing UI. 
